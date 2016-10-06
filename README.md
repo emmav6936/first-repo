@@ -1,1 +1,1 @@
-This is my first repo. This is my second sentence. It is not very long
+This is my first repo. With practice this is becoming easier to understand and do.
